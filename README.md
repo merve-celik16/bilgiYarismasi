@@ -1,5 +1,5 @@
 # 2.yöntem
-int sayac = 0; // Doğru cevap sayısı için tanımladığım değişken
+`int sayac = 0; // Doğru cevap sayısı için tanımladığım değişken
 
 // 1. Soru
 Console.WriteLine("1 )Kaçkar Dağı, hangi coğrafi bölgenin en yüksek dağıdır?");
@@ -80,4 +80,4 @@ switch (sayac )
     default:
         Console.WriteLine("Üzgünüm büyük ödülü kazanamadınız...");
         break;
-}
+}`
