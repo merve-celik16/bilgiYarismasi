@@ -39,11 +39,12 @@ else
 }
 
 
-if (sayac< 2) // 2 soruya da yanlış cevap verdiğinde 3. soruya gerek var mı kontrolü
+if (sayac== 2) // 2 soruya da yanlış cevap verdiğinde 3. soruya gerek var mı kontrolü
 {
-    Console.WriteLine("Üzgünüm büyük ödülü kazanamadınız.");
+    Console.WriteLine(" Tebrikler büyük ödülü kazandınız !");
 }
 else
+    
 {
     // 3. Soru
     Console.WriteLine("3 )Hangi canlı, günde en az 250 kez gerçekleşen ve her biri yaklaşık 1 dakika süren uykuya dalar?");
